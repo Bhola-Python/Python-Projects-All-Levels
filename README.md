@@ -1,4 +1,4 @@
-# Python Projects - All Levels 🚀
+# Python Projects - All Levels 
 
 Welcome to my Python Projects Repository!  
 This repo is a collection of Python projects built as part of my learning journey from beginner to advanced levels.
@@ -7,7 +7,7 @@ It includes everything from basic logic-building exercises to full data analysis
 
 ---
 
-## 📌 Repository Structure:
+##  Repository Structure:
 
 | Folder | Content |
 |------ | ------ |
@@ -20,7 +20,7 @@ It includes everything from basic logic-building exercises to full data analysis
 
 ---
 
-## ✅ Technologies and Libraries:
+##  Technologies and Libraries:
 
 - Python (Core)
 - Pandas (Data Analysis)
@@ -31,7 +31,7 @@ It includes everything from basic logic-building exercises to full data analysis
 
 ---
 
-## ✅ My Learning Goals with This Repo:
+##  My Learning Goals with This Repo:
 
 - Build strong problem-solving and logic-building skills  
 - Practice beginner DSA concepts using Python  
